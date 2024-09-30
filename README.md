@@ -59,6 +59,7 @@ To use Discord Media Uploader, follow these steps:
 2. **Supports Various File Types:** Upload media files, documents, and more to your Discord server. The bot supports a wide range of file types, making it versatile for sharing different types of content.
 3. **No Duplicate Upload:** The bot checks for duplicate files and ensures that files are not uploaded multiple times. This prevents clutter and helps maintain organization within your Discord server.
 4. **Logging and Tracking:** Keep track of uploaded files through a log file for easy reference. The bot records information about each uploaded file, including the file name, upload timestamp, and the size of the file.
+5. **Create threads for multiple folders:** Each folder will have a separate thread created.
 ## Contributing
 
 Contributions to Discord Media Uploader are welcome! If you'd like to contribute, please follow these steps:
