@@ -42,15 +42,15 @@ To use Discord Media Uploader, follow these steps:
 2. Install the required dependencies by running `pip install -r requirements.txt`.
 3. Obtain a Discord bot token. You can create a new bot and obtain the token from the Discord Developer Portal. [Tutorial](./bottutorial.md)
 4. Configure the bot settings in the `config.py` file. Set the `TOKEN` variable to your Discord bot token.
-5. Paste all your media files in the `media` folder.
+5. Paste all your media files or folders in the `media` folder.
 5. Run the bot by executing the `DiscordMediaUploader.py` file using Python.
 6. Type `!kaboom` in the Channel where you want to upload all your files
 
 ## Usage
 
 1. Make sure the bot is running and connected to your Discord server.
-2. Drop the files into the `media` folder.
-3. The bot will automatically detect new files in the folder and upload them to the specified channel in your Discord server.
+2. Drop the files or folders into the `media` folder.
+3. The bot will automatically detect new files or folders within the directory and upload them to the specified channel in your Discord server.
 4. You can monitor the bot's activity through the console output or check the logs for a record of uploaded files.
 
 ## Features
