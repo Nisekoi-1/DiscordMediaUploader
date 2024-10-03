@@ -1,7 +1,6 @@
 
 <h1 align="center">Discord Media Uploader: Automated Mass File Uploading for Discord Server. </h1>
 <p align="center">
-  <img src="https://i.imgur.com/eei1wpA.png" alt="Logo" width="200">
 </p>
 <p align="center">
   <strong>Automatic Mass File Uploading to Discord Server.</strong>
